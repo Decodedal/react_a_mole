@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import MoleContainer from './MoleContainer';
+import MoleContainer from './components/MoleContainer';
 import React, {useState} from 'react';
 
 function App() {
